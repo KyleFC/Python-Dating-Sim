@@ -8,4 +8,6 @@ class Dialogue:
     def give_actions(self, time):
         if time < 5:
             return "Buzzer Beater"
-        
+        """
+        test test
+        """
